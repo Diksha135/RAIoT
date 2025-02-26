@@ -1,3 +1,4 @@
+
 // Set up pins for Ultrasonic Sensor
 const int trigPin = 9;  // TRIG pin sends the signal
 const int echoPin = 10; // ECHO pin receives the signal
