@@ -1,3 +1,4 @@
+
 #define TRIG_PIN 9    // TRIG connected to digital pin 9
 #define ECHO_PIN 10   // ECHO connected to digital pin 10
 #define LED_PIN 6     // LED connected to digital pin 6 (PWM pin)
