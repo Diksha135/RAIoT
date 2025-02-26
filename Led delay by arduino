@@ -1,3 +1,4 @@
+
 // Define the pin numbers for the LEDs
 int led1 = 2;  // LED 1 connected to pin 2
 int led2 = 3;  // LED 2 connected to pin 3
